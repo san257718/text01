@@ -1,0 +1,23 @@
+{
+  "name": "text01",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "swiper": "^8.0.7",
+    "vue": "^3.2.25",
+    "vue-carousel": "^0.18.0",
+    "vue-renderless-carousel": "^1.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.0",
+    "prettier": "^2.5.1",
+    "prettier-plugin-tailwindcss": "^0.1.5",
+    "vitawind": "^2.0.0",
+    "vite": "^2.7.2"
+  }
+}
